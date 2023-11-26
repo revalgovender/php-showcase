@@ -9,7 +9,7 @@ This space is dedicated to showcasing some of the projects I've worked on to dem
 
 ## Video Tutorials
 
-Here is a list of tutorials and courses I created for my engineering YouTube channel, [StudyStream+](https://www.youtube.com/@StudyStreamPlus).
+List of tutorials and courses I created for my engineering YouTube channel, [StudyStream+](https://www.youtube.com/@StudyStreamPlus). My channel has over 6k subscribers!
 
 1. [How to use TDD to build a REST API in Laravel](https://www.youtube.com/playlist?list=PLrIm-p2rpV0F-rl4NPjNslEmW-D83AHOr)
 2. [How to use Traits in PHP](https://www.youtube.com/watch?v=PthkEj-TNLc)
