@@ -23,5 +23,5 @@ experience.
 
 1. [Create Payouts API For Seller (4hr time limit)](https://github.com/revalgovender/api-code-task)
 2. [Optimise Delivery (3hr time limit)](https://github.com/revalgovender/optmise-delivery-code-task)
-3. [People Matching (45min time limit)](https://github.com/revalgovender/people-matching)
+3. [People Matching (45min time limit)](https://github.com/revalgovender/people-matching-php)
 4. [Performance At Scale (30min time limit)](https://github.com/revalgovender/performance-at-scale-code-task)
